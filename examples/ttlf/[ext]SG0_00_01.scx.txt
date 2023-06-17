@@ -1,0 +1,168 @@
+Name: Itaru
+Character Line: “Whoa, you’re already back! It hasn’t even been a minute.”
+
+Name: Mayuri
+Character Line: “...Okarin?”
+
+Name: Mayuri
+Character Line: “Okarin!”
+
+Name: Itaru
+Character Line: “Whoa, you’re covered in blood! What happened?!”
+
+Name: Suzuha
+Character Line: “Get him a towel, Dad! And water! And some clothes, too! Hurry!”
+
+Name: Itaru
+Character Line: “Huh? What?! Explain please!”
+
+Name: Suzuha
+Character Line: “Just go already!”
+
+Name: Itaru
+Character Line: “O-Okay!”
+
+Name: Mayuri
+Character Line: “Are you okay?! Hang in there! Don’t die...!”
+
+Name: Suzuha
+Character Line: “He’s okay. It’s not his blood.”
+
+Name: Rintaro
+Character Line: “There’s no way to save her... there never was...”
+
+Name: Rintaro
+Character Line: “Hahaha... Everything has already been decided...”
+
+Name: Rintaro
+Character Line: “It’s the same as it was with Mayuri. The same...”
+
+Name: Rintaro
+Character Line: “No matter how hard I struggle... the result will always be the same...”
+
+Name: Rintaro
+Character Line: “There’s nothing I can do... nothing... nothing...”
+
+Name: Rintaro
+Character Line: “I can’t save Kurisu after all... ha, haha, hahaha...”
+
+Name: Rintaro
+Character Line: “I knew this would happen... I knew it would turn out like this...”
+
+Name: Rintaro
+Character Line: “I can’t take this anymore... I’m so tired... enough already... I give up...”
+
+Name: Rintaro
+Character Line: “Haha, ha...”
+
+Name: Mayuri
+Character Line: “Okarin... what happened?”
+
+Name: Rintaro
+Character Line: “I... I killed her. I killed her. I’m an idiot. It’s all my fault.”
+
+Name: Suzuha
+Character Line: “He k-killed Makise Kurisu.”
+
+Name: Mayuri
+Character Line: “Killed? That can’t be true... It can’t...”
+
+Name: Suzuha
+Character Line: “Don’t worry. You’ve got enough for one more attempt.”
+
+Name: Rintaro
+Character Line: “Just leave me alone... No matter how many times I try, it’ll all end up the same.”
+
+Name: Suzuha
+Character Line: “What are you saying?! Are you going to give up?!”
+
+Name: Suzuha
+Character Line: “Billions of lives depend on you, Uncle Okarin!”
+
+Name: Suzuha
+Character Line: “Who cares if you fail once?!”
+
+Name: Rintaro
+Character Line: “There’s just no way to save Kurisu! You can’t stop the [color index="280AA02D1400"]world line[color index="800000"] convergence...”
+
+Name: Suzuha
+Character Line: “Grr...! I’ll just have to slap some sense into him—”
+
+Name: Mayuri
+Character Line: “You can’t! It’s not right to force him to do this...!”
+
+Name: Mayuri
+Character Line: “I can’t bear to see Okarin like this...”
+
+Name: Suzuha
+Character Line: “If he doesn’t, the future won’t change!”
+
+Name: Mayuri
+Character Line: “Why? Why does Okarin have to change the future all by himself?!”
+
+Name: Mayuri
+Character Line: “That’s too much for him to bear...”
+
+Name: Suzuha
+Character Line: “Because only Uncle Okarin has the powers of an observer of the world.”
+
+Name: Mayuri
+Character Line: “Okarin didn’t want that!”
+
+Name: Mayuri
+Character Line: “And I think even if he tried, he’d just get hurt again...”
+
+Name: Mayuri
+Character Line: “It’s impossible for one person to change the world all by themselves.”
+
+Name: Suzuha
+Character Line: “And that’s why Steins Gate is...”
+
+Name: Suzuha
+Character Line: “...”
+
+Name: Suzuha
+Character Line: “I know how you feel. But I’m here for the sake of the future.”
+
+Name: Suzuha
+Character Line: “I can’t go back to 2036 either way, so I’m not going to give up so easily.”
+
+Name: Mayuri
+Character Line: “...”
+
+Name: Suzuha
+Character Line: “Uncle Okarin, I’ll tell you one thing. This time machine has a finite amount of fuel.”
+
+Name: Suzuha
+Character Line: “At first, I told you that it could only be used to go there and back twice, but there’s actually a little more fuel than that.”
+
+Name: Suzuha
+Character Line: “Even so, it can only travel about 344 days.”
+
+Name: Suzuha
+Character Line: “Even if you do a one-way trip, less than a year from now you won’t be able to reach July 28th.”
+
+Name: Suzuha
+Character Line: “Remember this. When that day comes, I’ll go myself if I must.”
+
+Name: Rintaro
+Character Line: “...”
+
+Name: Mayuri
+Character Line: “Okarin?”
+
+Name: Mayuri
+Character Line: “Okarin... Hey, Okarin...”
+
+Name: Mayuri
+Character Line: “You don’t have to push yourself so hard anymore, okay?”
+
+Name: Mayuri
+Character Line: “It’s okay to cry, Okarin...”
+
+Name: Mayuri
+Character Line: “Mayushii is here for you. Okay, Okarin?”
+
+Name: Rintaro
+Character Line: “...”
+

@@ -1,0 +1,54 @@
+Name: Mayuri
+Character Line: “...Okarin?”
+
+Name: Mayuri
+Character Line: “Okarin!”
+
+Name: Mayuri
+Character Line: “Are you okay?! Hang in there! Don’t die...!”
+
+Name: Mayuri
+Character Line: “Okarin... what happened?”
+
+Name: Mayuri
+Character Line: “Killed? That can’t be true... It can’t...”
+
+Name: Mayuri
+Character Line: “You can’t! It’s not right to force him to do this...!”
+
+Name: Mayuri
+Character Line: “I can’t bear to see Okarin like this...”
+
+Name: Mayuri
+Character Line: “Why? Why does Okarin have to change the future all by himself?!”
+
+Name: Mayuri
+Character Line: “That’s too much for him to bear...”
+
+Name: Mayuri
+Character Line: “Okarin didn’t want that!”
+
+Name: Mayuri
+Character Line: “And I think even if he tried, he’d just get hurt again...”
+
+Name: Mayuri
+Character Line: “It’s impossible for one person to change the world all by themselves.”
+
+Name: Mayuri
+Character Line: “...”
+
+Name: Mayuri
+Character Line: “Okarin?”
+
+Name: Mayuri
+Character Line: “Okarin... Hey, Okarin...”
+
+Name: Mayuri
+Character Line: “You don’t have to push yourself so hard anymore, okay?”
+
+Name: Mayuri
+Character Line: “It’s okay to cry, Okarin...”
+
+Name: Mayuri
+Character Line: “Mayushii is here for you. Okay, Okarin?”
+
