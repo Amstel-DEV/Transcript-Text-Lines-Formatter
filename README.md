@@ -1,42 +1,50 @@
 # Transcript Text Lines Formatter
 
-Transcript Text Lines Formatter is a Python program that extracts and formats character lines from text files based on specific tags. It provides two variations: one for extracting all character lines and another for extracting character lines for a specific character. The program prompts the user to enter the target folder path for extraction, the saving path location, and the specific character name (optional). It then iterates over all text files in the specified folder, extracts the character lines that match the expected format, and saves them to separate files in the specified destination folder while preserving the original file format.
+The Transcript Text Lines Formatter is a Python script that helps you extract and format character lines from text files, specifically designed for S;G (Steins;Gate) transcripts.
 
-## Description
+## Features
 
-This repository contains two programs:
+- Extract all character lines from a folder of text files and save them in a single output file.
+- Extract character lines for a specific character and save them in a separate output file.
+- Supports Windows and Unix/Linux operating systems.
 
-1. **Transcript Text Lines Formatter**: Extracts character lines from text files and saves them to separate files.
-2. **Transcripts Character Text Lines Formatter**: Extracts character lines for a specific character from text files and saves them to separate files.
+## Installation
 
-Both programs are designed specifically for text files containing transcripts or dialogue lines, such as those found in visual novels or screenplays. They identify lines with character names and extract the corresponding character lines, ignoring any non-character lines. The extracted lines are saved in new text files with the format [ext]original_filename.txt.
+1. Clone the repository or download the Portable Executable Program at [Releases](https://github.com/Amstel-DEV/Transcript-Text-Lines-Formatter/releases).
+2. Ensure that you have Python 3.x installed on your system.
 
 ## Usage
 
-1. Clone the repository or download the `transcript_text_lines_formatter.py` and `transcripts_character_text_lines_formatter.py` files.
-2. Make sure you have Python installed (Python 3.6 or later).
-3. Open a terminal or command prompt and navigate to the directory where the Python files are located.
-4. Run the following command to execute the desired program:
+1. Open a terminal or command prompt.
+2. Navigate to the project directory.
+3. Run the given command to start the script:
+   ```shell
+   python transcript_formatter.py
+   ```
 
-   - For Transcript Text Lines Formatter:
-     ```shell
-     python transcript_text_lines_formatter.py
-     ```
+4. Follow the on-screen instructions to select the desired operation and provide the necessary inputs.
+5. The extracted character lines will be saved in the specified output folder.
 
-   - For Transcripts Character Text Lines Formatter:
-     ```shell
-     python transcripts_character_text_lines_formatter.py
-     ```
+## Releases
+Check out the [Releases](https://github.com/Amstel-DEV/Transcript-Text-Lines-Formatter/releases) page for the latest version of the Transcript Text Lines Formatter. You can find the portable executable (.exe) version of the program there.
 
-5. Follow the prompts to enter the target folder path for extraction, the saving path location, and the specific character name (for Transcripts Character Text Lines Formatter).
-6. The program will process the text files and save the extracted character lines to new files in the specified destination folder.
 
-## Examples
-**Transcript Text Lines Formatter**
-![Example Image](examples/TTLF%20-%20SS001.JPG)
+# Changelog
 
-**Transcripts Character Text Lines Formatter**
-![Example Image](examples/TCTLF%20-%20SS001.JPG)
+### Version 1.1.0
+- Improved user interface by clearing the console screen before each operation.
+- Refactored the code to enhance readability and maintainability.
+- Introduced a single operation mode for saving the output in a single TXT file.
+- Fixed minor bugs and improved error handling.
+- Updated the About section in the main menu to provide more information about the program.
+
+### Version 1.0.0
+- Implemented the core functionality of the Transcript Text Lines Formatter program.
+- Provided the ability to extract character lines from text files based on specific tags.
+- Supported two variations: one for extracting all character lines and another for extracting character lines for a specific character.
+- Prompted the user to enter the target folder path, saving path location, and optional character name.
+- Processed the text files, extracted the character lines, and saved them to separate files while preserving the original format.
+- Designed specifically for text files containing transcripts or dialogue lines.
 
 ## License
 
